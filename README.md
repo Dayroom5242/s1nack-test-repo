@@ -1,1 +1,1 @@
-Hello World. How's it going
+Hello World.
